@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "About";
+}
+
+<h1>About</h1>
+<h2>Current Date And Time Is = @ViewData["Date"]</h2>
+<h5>I like Some Fruits List 
+    <ul>
+    @{
+        foreach (string i in (string[])ViewData["FruitsArrary"])
+            {
+                <li>@i</li>
+            }
+        }
+    </ul>
+</h5>
+
+@{
+    var EmpDetails = (ViewProject.Models.Employee)ViewData["Employee"];
+
+
+}
+
+<p>@EmpDetails.EmpId</p>
+<p>@EmpDetails.EmpName</p>
+
+<p>@EmpDetails.EmpCity</p>
+
+

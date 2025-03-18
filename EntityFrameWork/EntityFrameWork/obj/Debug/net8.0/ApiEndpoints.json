@@ -1,0 +1,75 @@
+[
+  {
+    "ContainingType": "EntityFrameWork.Controllers.CurrencyController",
+    "Method": "GetAllCurrencies",
+    "RelativePath": "api/currencies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFrameWork.Controllers.CurrencyController",
+    "Method": "GetCurrencyByIdAsync",
+    "RelativePath": "api/currencies/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFrameWork.Controllers.CurrencyController",
+    "Method": "GetCurrencyByNameAsync",
+    "RelativePath": "api/currencies/{Name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFrameWork.Controllers.CurrencyController",
+    "Method": "GetCurrencyByNameAsync",
+    "RelativePath": "api/currencies/by-name/{Name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "CurDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFrameWork.Controllers.LanguageController",
+    "Method": "GetAllLanguages",
+    "RelativePath": "api/language",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

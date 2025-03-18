@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|c:\\users\\asus\\source\\repos\\efcodefirstapproach\\efcodefirstapproach\\migrations\\20250316072031_addeddbcartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|solutionrelative:efcodefirstapproach\\migrations\\20250316072031_addeddbcartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|c:\\users\\asus\\source\\repos\\efcodefirstapproach\\efcodefirstapproach\\srcdata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|solutionrelative:efcodefirstapproach\\srcdata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|c:\\users\\asus\\source\\repos\\efcodefirstapproach\\efcodefirstapproach\\srcdata\\carbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|solutionrelative:efcodefirstapproach\\srcdata\\carbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|c:\\users\\asus\\source\\repos\\efcodefirstapproach\\efcodefirstapproach\\srcdata\\cardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|solutionrelative:efcodefirstapproach\\srcdata\\cardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|c:\\users\\asus\\source\\repos\\efcodefirstapproach\\efcodefirstapproach\\srcdata\\carowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|solutionrelative:efcodefirstapproach\\srcdata\\carowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|c:\\users\\asus\\source\\repos\\efcodefirstapproach\\efcodefirstapproach\\srcdata\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|solutionrelative:efcodefirstapproach\\srcdata\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|c:\\users\\asus\\source\\repos\\efcodefirstapproach\\efcodefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F96F24A-BBC8-442C-976B-6B365A9BF1D6}|EFCodeFirstApproach\\EFCodeFirstApproach.csproj|solutionrelative:efcodefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250316072031_AddedDBCarType.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\Migrations\\20250316072031_AddedDBCarType.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstApproach\\Migrations\\20250316072031_AddedDBCarType.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\Migrations\\20250316072031_AddedDBCarType.cs",
+              "RelativeToolTip": "EFCodeFirstApproach\\Migrations\\20250316072031_AddedDBCarType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T07:20:31.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\SrcData\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstApproach\\SrcData\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\SrcData\\AppDBContext.cs",
+              "RelativeToolTip": "EFCodeFirstApproach\\SrcData\\AppDBContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:34:01.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarType.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\SrcData\\CarType.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstApproach\\SrcData\\CarType.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\SrcData\\CarType.cs",
+              "RelativeToolTip": "EFCodeFirstApproach\\SrcData\\CarType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:02:50.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarBrand.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\SrcData\\CarBrand.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstApproach\\SrcData\\CarBrand.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\SrcData\\CarBrand.cs",
+              "RelativeToolTip": "EFCodeFirstApproach\\SrcData\\CarBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:01:30.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarOwner.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\SrcData\\CarOwner.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstApproach\\SrcData\\CarOwner.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\SrcData\\CarOwner.cs",
+              "RelativeToolTip": "EFCodeFirstApproach\\SrcData\\CarOwner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:57:33.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\SrcData\\CarDetails.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstApproach\\SrcData\\CarDetails.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\SrcData\\CarDetails.cs",
+              "RelativeToolTip": "EFCodeFirstApproach\\SrcData\\CarDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:55:04.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCodeFirstApproach\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\appsettings.json",
+              "RelativeToolTip": "EFCodeFirstApproach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T06:51:24.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

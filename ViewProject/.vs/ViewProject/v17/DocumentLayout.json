@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Krunal Work\\.NetProject\\ViewProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD91E0-7C40-494D-B320-FA857E79CA44}|ViewProject\\ViewProject.csproj|d:\\krunal work\\.netproject\\viewproject\\viewproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BD91E0-7C40-494D-B320-FA857E79CA44}|ViewProject\\ViewProject.csproj|solutionrelative:viewproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD91E0-7C40-494D-B320-FA857E79CA44}|ViewProject\\ViewProject.csproj|d:\\krunal work\\.netproject\\viewproject\\viewproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BD91E0-7C40-494D-B320-FA857E79CA44}|ViewProject\\ViewProject.csproj|solutionrelative:viewproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD91E0-7C40-494D-B320-FA857E79CA44}|ViewProject\\ViewProject.csproj|d:\\krunal work\\.netproject\\viewproject\\viewproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BD91E0-7C40-494D-B320-FA857E79CA44}|ViewProject\\ViewProject.csproj|solutionrelative:viewproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD91E0-7C40-494D-B320-FA857E79CA44}|ViewProject\\ViewProject.csproj|d:\\krunal work\\.netproject\\viewproject\\viewproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BD91E0-7C40-494D-B320-FA857E79CA44}|ViewProject\\ViewProject.csproj|solutionrelative:viewproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\ViewProject\\ViewProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ViewProject\\Models\\Employee.cs",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\ViewProject\\ViewProject\\Models\\Employee.cs",
+              "RelativeToolTip": "ViewProject\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T09:54:25.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\ViewProject\\ViewProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\ViewProject\\ViewProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T05:36:09.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\ViewProject\\ViewProject\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ViewProject\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\ViewProject\\ViewProject\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ViewProject\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T04:40:53.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\ViewProject\\ViewProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewProject\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\ViewProject\\ViewProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvyIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T04:38:55.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
