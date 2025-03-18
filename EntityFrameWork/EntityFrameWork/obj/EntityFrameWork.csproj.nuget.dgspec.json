@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj": {}
+    "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj": {}
   },
   "projects": {
-    "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj": {
+    "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj",
+        "projectUniqueName": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj",
         "projectName": "EntityFrameWork",
-        "projectPath": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj",
+        "projectPath": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\obj\\",
+        "outputPath": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

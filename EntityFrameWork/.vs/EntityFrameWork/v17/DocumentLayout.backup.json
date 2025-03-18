@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\",
+  "WorkspaceRootPath": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net\\entityframework\\entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|solutionrelative:entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net\\entityframework\\entityframework\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\entityframework\\entityframework\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|solutionrelative:entityframework\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net\\entityframework\\entityframework\\data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\entityframework\\entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|solutionrelative:entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\entityframework\\entityframework\\data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|solutionrelative:entityframework\\data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net\\entityframework\\entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\entityframework\\entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|solutionrelative:entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net\\entityframework\\entityframework\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\entityframework\\entityframework\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|solutionrelative:entityframework\\controllers\\languagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net\\entityframework\\entityframework\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\entityframework\\entityframework\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|solutionrelative:entityframework\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net\\entityframework\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\entityframework\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|solutionrelative:entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net\\entityframework\\entityframework\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\entityframework\\entityframework\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|solutionrelative:entityframework\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net\\entityframework\\entityframework\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\entityframework\\entityframework\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D78B612-B6C7-45DE-B859-47F87BFDE1F6}|EntityFrameWork\\EntityFrameWork.csproj|solutionrelative:entityframework\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,15 +46,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "LanguageController.cs",
-              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Controllers\\LanguageController.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Controllers\\LanguageController.cs",
               "RelativeDocumentMoniker": "EntityFrameWork\\Controllers\\LanguageController.cs",
-              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Controllers\\LanguageController.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Controllers\\LanguageController.cs",
               "RelativeToolTip": "EntityFrameWork\\Controllers\\LanguageController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAowBgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,13 +62,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CurrencyController.cs",
-              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Controllers\\CurrencyController.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Controllers\\CurrencyController.cs",
               "RelativeDocumentMoniker": "EntityFrameWork\\Controllers\\CurrencyController.cs",
-              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Controllers\\CurrencyController.cs",
-              "RelativeToolTip": "EntityFrameWork\\Controllers\\CurrencyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Controllers\\CurrencyController.cs*",
+              "RelativeToolTip": "EntityFrameWork\\Controllers\\CurrencyController.cs*",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwG8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T09:24:11.891Z",
               "EditorCaption": ""
@@ -77,37 +77,35 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\appsettings.json",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\appsettings.json",
               "RelativeDocumentMoniker": "EntityFrameWork\\appsettings.json",
-              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\appsettings.json",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\appsettings.json",
               "RelativeToolTip": "EntityFrameWork\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T05:39:08.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T05:39:08.192Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Currency.cs",
-              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Data\\Currency.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Data\\Currency.cs",
               "RelativeDocumentMoniker": "EntityFrameWork\\Data\\Currency.cs",
-              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Data\\Currency.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Data\\Currency.cs",
               "RelativeToolTip": "EntityFrameWork\\Data\\Currency.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T17:40:02.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T17:40:02.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDBContext.cs",
-              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Data\\AppDBContext.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Data\\AppDBContext.cs",
               "RelativeDocumentMoniker": "EntityFrameWork\\Data\\AppDBContext.cs",
-              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Data\\AppDBContext.cs",
               "RelativeToolTip": "EntityFrameWork\\Data\\AppDBContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T18:40:14.494Z",
               "EditorCaption": ""
@@ -116,9 +114,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Program.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Program.cs",
               "RelativeDocumentMoniker": "EntityFrameWork\\Program.cs",
-              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Program.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Program.cs",
               "RelativeToolTip": "EntityFrameWork\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -128,9 +126,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Language.cs",
-              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Data\\Language.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Data\\Language.cs",
               "RelativeDocumentMoniker": "EntityFrameWork\\Data\\Language.cs",
-              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Data\\Language.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Data\\Language.cs",
               "RelativeToolTip": "EntityFrameWork\\Data\\Language.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Data\\Book.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Data\\Book.cs",
               "RelativeDocumentMoniker": "EntityFrameWork\\Data\\Book.cs",
-              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Data\\Book.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Data\\Book.cs",
               "RelativeToolTip": "EntityFrameWork\\Data\\Book.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,9 +150,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "BookPrice.cs",
-              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Data\\BookPrice.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Data\\BookPrice.cs",
               "RelativeDocumentMoniker": "EntityFrameWork\\Data\\BookPrice.cs",
-              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\Data\\BookPrice.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\Data\\BookPrice.cs",
               "RelativeToolTip": "EntityFrameWork\\Data\\BookPrice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

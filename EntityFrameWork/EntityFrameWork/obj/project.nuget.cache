@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cg9uv7UCfhg=",
+  "dgSpecHash": "9S3OYJJwncg=",
   "success": true,
-  "projectFilePath": "D:\\Krunal Work\\.Net MVC\\.Net\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj",
+  "projectFilePath": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EntityFrameWork\\EntityFrameWork\\EntityFrameWork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
