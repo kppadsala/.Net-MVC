@@ -1,0 +1,72 @@
+﻿@model DataTypeDataAnnotaion.Models.SignUpPage
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Sign Up Page</h1>
+
+@using (Html.BeginForm())
+{
+    <div class="d-flex justify-content-center flex-column align-items-center gap-2 w-100">
+
+        <p class="w-100 d-flex justify-content-between align-items-center gap-3">
+            @Html.LabelFor(Model => Model.EmpName) &nbsp;
+            @Html.EditorFor(Model => Model.EmpName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(Model => Model.EmpName)
+        </p>
+
+
+        <p class="w-100 d-flex justify-content-between align-items-center gap-3">
+            @Html.LabelFor(Model => Model.EmpAddress) &nbsp;
+            @Html.EditorFor(Model => Model.EmpAddress, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(Model => Model.EmpAddress)
+        </p>
+
+
+        <p class="w-100 d-flex justify-content-between align-items-center gap-3 ">
+            @Html.LabelFor(Model => Model.EmpPassword) &nbsp;
+            @Html.EditorFor(Model => Model.EmpPassword, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(Model => Model.EmpPassword)
+        </p>
+
+
+        <p class="w-100 d-flex justify-content-between align-items-center gap-3">
+            @Html.LabelFor(Model => Model.EmpConformPassword) &nbsp;
+            @Html.EditorFor(Model => Model.EmpConformPassword, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(Model => Model.EmpConformPassword)
+        </p>
+
+
+        <p class="w-100 d-flex justify-content-between align-items-center gap-3">
+            @Html.LabelFor(Model => Model.EmpJoiningDate) &nbsp;
+            @Html.EditorFor(Model => Model.EmpJoiningDate, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(Model => Model.EmpJoiningDate)
+        </p>
+
+
+        <p class="w-100 d-flex justify-content-between align-items-center gap-3">
+            @Html.LabelFor(Model => Model.EmpWorkStaringTime) &nbsp;
+            @Html.EditorFor(Model => Model.EmpWorkStaringTime, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(Model => Model.EmpWorkStaringTime)
+        </p>
+
+        <input type="submit" value="Submit" class="btn btn-outline-dark"/>
+       
+
+    </div>
+
+    @if (ViewBag.EmpName != null) 
+
+    {
+        <div class="mt-4 p-3 border rounded w-100 bg-light">
+            <h4>Submitted Data:</h4>
+            <p><strong>Name:</strong> @ViewBag.EmpName</p>
+            <p><strong>Address:</strong> @ViewBag.EmpAddress</p>
+            <p><strong>Password</strong> @ViewBag.EmpPassword</p>
+            <p><strong>Joining Date:</strong> @ViewBag.EmpJoiningDate</p>
+            <p><strong>Working Time:</strong> @ViewBag.EmpWorkStaringTime</p>
+        </div>
+    }
+
+}
