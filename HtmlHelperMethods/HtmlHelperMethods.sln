@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlHelperMethods", "HtmlHelperMethods\HtmlHelperMethods.csproj", "{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BFAD18B-1FA7-49FA-85CC-2D6238A36483}
+	EndGlobalSection
+EndGlobal

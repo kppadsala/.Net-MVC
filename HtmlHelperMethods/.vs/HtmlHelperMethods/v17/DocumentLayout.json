@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\HtmlHelperMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}|HtmlHelperMethods\\HtmlHelperMethods.csproj|c:\\users\\asus\\source\\repos\\htmlhelpermethods\\htmlhelpermethods\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}|HtmlHelperMethods\\HtmlHelperMethods.csproj|solutionrelative:htmlhelpermethods\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}|HtmlHelperMethods\\HtmlHelperMethods.csproj|c:\\users\\asus\\source\\repos\\htmlhelpermethods\\htmlhelpermethods\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}|HtmlHelperMethods\\HtmlHelperMethods.csproj|solutionrelative:htmlhelpermethods\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}|HtmlHelperMethods\\HtmlHelperMethods.csproj|c:\\users\\asus\\source\\repos\\htmlhelpermethods\\htmlhelpermethods\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}|HtmlHelperMethods\\HtmlHelperMethods.csproj|solutionrelative:htmlhelpermethods\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}|HtmlHelperMethods\\HtmlHelperMethods.csproj|c:\\users\\asus\\source\\repos\\htmlhelpermethods\\htmlhelpermethods\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FCF859-9DB2-4C9F-8DEE-1E54ED5CC05B}|HtmlHelperMethods\\HtmlHelperMethods.csproj|solutionrelative:htmlhelpermethods\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\HtmlHelperMethods\\HtmlHelperMethods\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "HtmlHelperMethods\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\HtmlHelperMethods\\HtmlHelperMethods\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "HtmlHelperMethods\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T14:57:20.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\HtmlHelperMethods\\HtmlHelperMethods\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HtmlHelperMethods\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\HtmlHelperMethods\\HtmlHelperMethods\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HtmlHelperMethods\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T14:57:14.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\HtmlHelperMethods\\HtmlHelperMethods\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "HtmlHelperMethods\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\HtmlHelperMethods\\HtmlHelperMethods\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "HtmlHelperMethods\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T14:50:48.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\HtmlHelperMethods\\HtmlHelperMethods\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HtmlHelperMethods\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\HtmlHelperMethods\\HtmlHelperMethods\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HtmlHelperMethods\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:48:24.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

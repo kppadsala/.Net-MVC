@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StronglyTypeHtmlHelpers.props" />
+</Project>

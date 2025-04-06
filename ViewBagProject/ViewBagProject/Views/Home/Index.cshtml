@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Home Page</h1>
+    <h2>@ViewBag.Message</h2>
+    <h2>@ViewBag.Date</h2>
+    <ul>
+        @{
+            foreach (string i in ViewBag.SportList)
+            {
+                
+    <h2>@i</h2>
+            }
+        }
+    </ul>
+
+
+</div>

@@ -1,0 +1,26 @@
+﻿@model StronglyTypePartialView.Models.Product 
+
+<table border="2" width="500">
+    <tr>
+        <td>
+            <img src="@Model.Picture" width="200" height="200" asp-append-version="true" />
+
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Product Id =</td>
+                    <td>@Model.id</td>
+                </tr>
+                 <tr>
+                    <td>Product Name =</td>
+                    <td>@Model.name</td>
+                </tr>
+                <tr>
+                    <td>Product Price = </td>
+                    <td>@Model.price</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>

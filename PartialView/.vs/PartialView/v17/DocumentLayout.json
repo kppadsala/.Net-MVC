@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Krunal Work\\.NetProject\\PartialView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B5834D-B9B3-4D65-8456-C33D0D8E72C9}|PartialView\\PartialView.csproj|d:\\krunal work\\.netproject\\partialview\\partialview\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B5834D-B9B3-4D65-8456-C33D0D8E72C9}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B5834D-B9B3-4D65-8456-C33D0D8E72C9}|PartialView\\PartialView.csproj|d:\\krunal work\\.netproject\\partialview\\partialview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B5834D-B9B3-4D65-8456-C33D0D8E72C9}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B5834D-B9B3-4D65-8456-C33D0D8E72C9}|PartialView\\PartialView.csproj|d:\\krunal work\\.netproject\\partialview\\partialview\\views\\shared\\_emplist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B5834D-B9B3-4D65-8456-C33D0D8E72C9}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\shared\\_emplist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\PartialView\\PartialView\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\PartialView\\PartialView\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T16:51:11.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\PartialView\\PartialView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\PartialView\\PartialView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T16:40:28.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_EmpList.cshtml",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\PartialView\\PartialView\\Views\\Shared\\_EmpList.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\Shared\\_EmpList.cshtml",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\PartialView\\PartialView\\Views\\Shared\\_EmpList.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\Shared\\_EmpList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T16:39:37.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

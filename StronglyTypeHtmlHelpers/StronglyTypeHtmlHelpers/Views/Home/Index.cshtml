@@ -1,0 +1,66 @@
+﻿@model StronglyTypeHtmlHelpers.Models.SignUp
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1 class="text-center mt-3">Index Page</h1>
+
+<div class="container d-flex justify-content-center mt-4">
+    <div class="d-flex flex-column align-items-center w-50">
+        @using (Html.BeginForm())
+        {
+            <div class="d-flex flex-column  gap-2 w-100">
+                <span class="d-flex justify-content-between align-items-center ">
+                    @Html.LabelFor(Model => Model.Name)
+                    &nbsp;&nbsp;
+                    @Html.TextBoxFor(Model => Model.Name , new {@class = "form-control"})
+                </span>
+
+                @*   <span class="d-flex justify-content-between align-items-center ">
+                      @Html.LabelFor(Model => Model.Email)
+                      &nbsp;&nbsp;
+                      @Html.EditorFor(Model => Model.Email, new { @class = "form-control" })
+                  </span> *@
+
+                <span class="d-flex justify-content-between align-items-center ">
+                    @Html.LabelFor(Model => Model.Email)
+                    &nbsp;&nbsp;
+                    @Html.TextBoxFor(Model => Model.Email, new { @class = "form-control" })
+                </span>
+
+                <span class="d-flex justify-content-between align-items-center ">
+                    @Html.LabelFor(Model => Model.PhoneNumber)
+                    &nbsp;&nbsp;
+                    @Html.TextBoxFor(Model => Model.PhoneNumber, new { @class = "form-control" })
+                </span>
+
+                <span class="d-flex justify-content-between align-items-center ">
+                    @Html.LabelFor(Model => Model.City)
+                    &nbsp;&nbsp;
+                    @Html.TextBoxFor(Model => Model.City, new { @class = "form-control" })
+                </span>
+
+                <span class="d-flex justify-content-between align-items-center ">
+                    @Html.LabelFor(Model => Model.Gender)
+                    &nbsp;&nbsp;
+                    @Html.DropDownListFor(Model => Model.Gender, new SelectList(new[] { "Male", "Female" }), "select", new { @class = "form-control" })
+                </span>
+
+                <input type="submit" value="Submit" class="from-control">
+            </div>
+        }
+
+        @if (ViewBag.Name != null)
+        {
+            <div class="mt-4 p-3 border rounded w-100 bg-light">
+                <h4>Submitted Data:</h4>
+                <p><strong>Name:</strong> @ViewBag.Name</p>
+                <p><strong>Email:</strong> @ViewBag.Email</p>
+                <p><strong>Phone Number:</strong> @ViewBag.PhoneNumber</p>
+                <p><strong>City:</strong> @ViewBag.City</p>
+                <p><strong>Gender:</strong> @ViewBag.Gender</p>
+            </div>
+        }
+    </div>
+</div>

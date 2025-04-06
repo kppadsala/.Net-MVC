@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "About";
+}
+
+<h1>About Page</h1>
+
+
+<ul>
+    <li><a asp-controller="Home" asp-action="Privacy">Privacy Page From About </a></li>
+</ul>
+<p>TextBox</p>
+@Html.TextBox("FullName")
+@Html.TextBox("LastName", null, new Dictionary<string, object>
+{
+    { "style", "background-color:red; color:white; font-weight:bold;" },
+    { "title", "Enter Your Last Name" }
+})
+
+
+
+
+<p>TextArea</p>
+@Html.TextArea("Description")
+
+<p>Password</p>
+@Html.Password("Password")
+
+<p>CheckBox</p>
+@Html.CheckBox("City")
+
+

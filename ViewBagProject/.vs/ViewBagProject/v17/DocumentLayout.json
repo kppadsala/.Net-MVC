@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Krunal Work\\.NetProject\\ViewBagProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0339217A-C0FD-404C-B584-8E0A7CF2D8D5}|ViewBagProject\\ViewBagProject.csproj|d:\\krunal work\\.netproject\\viewbagproject\\viewbagproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0339217A-C0FD-404C-B584-8E0A7CF2D8D5}|ViewBagProject\\ViewBagProject.csproj|solutionrelative:viewbagproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0339217A-C0FD-404C-B584-8E0A7CF2D8D5}|ViewBagProject\\ViewBagProject.csproj|d:\\krunal work\\.netproject\\viewbagproject\\viewbagproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0339217A-C0FD-404C-B584-8E0A7CF2D8D5}|ViewBagProject\\ViewBagProject.csproj|solutionrelative:viewbagproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\ViewBagProject\\ViewBagProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewBagProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\ViewBagProject\\ViewBagProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewBagProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T17:14:52.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\ViewBagProject\\ViewBagProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewBagProject\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\ViewBagProject\\ViewBagProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewBagProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:48:36.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

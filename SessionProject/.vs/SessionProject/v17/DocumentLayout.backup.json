@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\SessionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{275DD7B4-AFB6-4B1B-A819-5E5280E36227}|SessionProject\\SessionProject.csproj|c:\\users\\asus\\source\\repos\\sessionproject\\sessionproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275DD7B4-AFB6-4B1B-A819-5E5280E36227}|SessionProject\\SessionProject.csproj|solutionrelative:sessionproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275DD7B4-AFB6-4B1B-A819-5E5280E36227}|SessionProject\\SessionProject.csproj|c:\\users\\asus\\source\\repos\\sessionproject\\sessionproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{275DD7B4-AFB6-4B1B-A819-5E5280E36227}|SessionProject\\SessionProject.csproj|solutionrelative:sessionproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275DD7B4-AFB6-4B1B-A819-5E5280E36227}|SessionProject\\SessionProject.csproj|c:\\users\\asus\\source\\repos\\sessionproject\\sessionproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{275DD7B4-AFB6-4B1B-A819-5E5280E36227}|SessionProject\\SessionProject.csproj|solutionrelative:sessionproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275DD7B4-AFB6-4B1B-A819-5E5280E36227}|SessionProject\\SessionProject.csproj|c:\\users\\asus\\source\\repos\\sessionproject\\sessionproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{275DD7B4-AFB6-4B1B-A819-5E5280E36227}|SessionProject\\SessionProject.csproj|solutionrelative:sessionproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275DD7B4-AFB6-4B1B-A819-5E5280E36227}|SessionProject\\SessionProject.csproj|c:\\users\\asus\\source\\repos\\sessionproject\\sessionproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{275DD7B4-AFB6-4B1B-A819-5E5280E36227}|SessionProject\\SessionProject.csproj|solutionrelative:sessionproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SessionProject\\SessionProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SessionProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SessionProject\\SessionProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SessionProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T11:17:00.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SessionProject\\SessionProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SessionProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SessionProject\\SessionProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SessionProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T11:15:38.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SessionProject\\SessionProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SessionProject\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SessionProject\\SessionProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SessionProject\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T11:14:31.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SessionProject\\SessionProject\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "SessionProject\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SessionProject\\SessionProject\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "SessionProject\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T11:14:20.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SessionProject\\SessionProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SessionProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SessionProject\\SessionProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SessionProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:13:21.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 >Welcome To Index Page</h1>
+    @{
+        var a = (StronglyTypeView.Models.Employee)ViewData["Var1"];
+        var b = ViewBag.var2;
+
+    }
+    <h2>ViewData</h2>
+    <h3>@a.ID</h3>
+    <h3>@a.Name</h3>
+    <h3>@a.Age</h3>
+
+    <h2>ViewBag</h2>
+    <h3>@b.ID</h3>
+    <h3>@b.Name</h3>
+    <h3>@b.Age</h3>
+</div>

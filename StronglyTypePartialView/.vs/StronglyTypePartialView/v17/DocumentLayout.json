@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Krunal Work\\.NetProject\\StronglyTypePartialView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{188DCBD4-7368-428B-AFE5-A8A6E6FFAE9D}|StronglyTypePartialView\\StronglyTypePartialView.csproj|d:\\krunal work\\.netproject\\stronglytypepartialview\\stronglytypepartialview\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{188DCBD4-7368-428B-AFE5-A8A6E6FFAE9D}|StronglyTypePartialView\\StronglyTypePartialView.csproj|solutionrelative:stronglytypepartialview\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188DCBD4-7368-428B-AFE5-A8A6E6FFAE9D}|StronglyTypePartialView\\StronglyTypePartialView.csproj|d:\\krunal work\\.netproject\\stronglytypepartialview\\stronglytypepartialview\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188DCBD4-7368-428B-AFE5-A8A6E6FFAE9D}|StronglyTypePartialView\\StronglyTypePartialView.csproj|solutionrelative:stronglytypepartialview\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188DCBD4-7368-428B-AFE5-A8A6E6FFAE9D}|StronglyTypePartialView\\StronglyTypePartialView.csproj|d:\\krunal work\\.netproject\\stronglytypepartialview\\stronglytypepartialview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{188DCBD4-7368-428B-AFE5-A8A6E6FFAE9D}|StronglyTypePartialView\\StronglyTypePartialView.csproj|solutionrelative:stronglytypepartialview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188DCBD4-7368-428B-AFE5-A8A6E6FFAE9D}|StronglyTypePartialView\\StronglyTypePartialView.csproj|d:\\krunal work\\.netproject\\stronglytypepartialview\\stronglytypepartialview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188DCBD4-7368-428B-AFE5-A8A6E6FFAE9D}|StronglyTypePartialView\\StronglyTypePartialView.csproj|solutionrelative:stronglytypepartialview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ProductPartialView.cshtml",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\StronglyTypePartialView\\StronglyTypePartialView\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeDocumentMoniker": "StronglyTypePartialView\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\StronglyTypePartialView\\StronglyTypePartialView\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeToolTip": "StronglyTypePartialView\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T07:31:52.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\StronglyTypePartialView\\StronglyTypePartialView\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "StronglyTypePartialView\\Models\\Product.cs",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\StronglyTypePartialView\\StronglyTypePartialView\\Models\\Product.cs",
+              "RelativeToolTip": "StronglyTypePartialView\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:12:13.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\StronglyTypePartialView\\StronglyTypePartialView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StronglyTypePartialView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\StronglyTypePartialView\\StronglyTypePartialView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StronglyTypePartialView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T07:11:15.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\StronglyTypePartialView\\StronglyTypePartialView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StronglyTypePartialView\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\StronglyTypePartialView\\StronglyTypePartialView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StronglyTypePartialView\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:10:10.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

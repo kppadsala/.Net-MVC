@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Career";
+}
+
+<h1>Career</h1>
+
+<ul>
+
+    @{
+        foreach (string Data in (string[])TempData["GamesArr"]) 
+        {
+            <li>
+                @Data
+            </li>
+        }
+    }
+
+</ul>

@@ -1,0 +1,13 @@
+﻿@model List<StronglyTypePartialView.Models.Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>Index Page</h1>
+
+<h2 class="text-center">Products Details</h2>
+
+@foreach (var item in Model)
+{
+    @await Html.PartialAsync("/Views/Shared/_ProductPartialView.cshtml", item)
+
+}

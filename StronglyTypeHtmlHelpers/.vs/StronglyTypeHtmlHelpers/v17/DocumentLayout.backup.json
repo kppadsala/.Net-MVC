@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Krunal Work\\.NetProject\\StronglyTypeHtmlHelpers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14669685-5D4A-4F70-86AA-CF45A4E040D5}|StronglyTypeHtmlHelpers\\StronglyTypeHtmlHelpers.csproj|d:\\krunal work\\.netproject\\stronglytypehtmlhelpers\\stronglytypehtmlhelpers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14669685-5D4A-4F70-86AA-CF45A4E040D5}|StronglyTypeHtmlHelpers\\StronglyTypeHtmlHelpers.csproj|solutionrelative:stronglytypehtmlhelpers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14669685-5D4A-4F70-86AA-CF45A4E040D5}|StronglyTypeHtmlHelpers\\StronglyTypeHtmlHelpers.csproj|d:\\krunal work\\.netproject\\stronglytypehtmlhelpers\\stronglytypehtmlhelpers\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14669685-5D4A-4F70-86AA-CF45A4E040D5}|StronglyTypeHtmlHelpers\\StronglyTypeHtmlHelpers.csproj|solutionrelative:stronglytypehtmlhelpers\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\StronglyTypeHtmlHelpers\\StronglyTypeHtmlHelpers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StronglyTypeHtmlHelpers\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\StronglyTypeHtmlHelpers\\StronglyTypeHtmlHelpers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StronglyTypeHtmlHelpers\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:00:59.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.NetProject\\StronglyTypeHtmlHelpers\\StronglyTypeHtmlHelpers\\Models\\SignUp.cs",
+              "RelativeDocumentMoniker": "StronglyTypeHtmlHelpers\\Models\\SignUp.cs",
+              "ToolTip": "D:\\Krunal Work\\.NetProject\\StronglyTypeHtmlHelpers\\StronglyTypeHtmlHelpers\\Models\\SignUp.cs",
+              "RelativeToolTip": "StronglyTypeHtmlHelpers\\Models\\SignUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:15:03.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

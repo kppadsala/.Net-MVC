@@ -1,0 +1,58 @@
+﻿@model ValidationMessageSummaryMethods.Models.LoginForm
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using (Html.BeginForm())
+{
+
+
+    <div class="d-flex justify-content-center align-items-center flex-column gap-2 w-full">
+
+        <h1>Login Form</h1>
+
+        <span class="d-flex justify-content-between align-items-center w-50 ">
+
+            @Html.LabelFor(Model => Model.Name) &nbsp;
+            @Html.TextBoxFor(Model => Model.Name, new { @class = "form-control" })
+            @Html.ValidationMessage("Name", new { @class = "text-danger" })
+        </span>
+
+        <span class="d-flex justify-content-between align-items-center w-50 ">
+
+            @Html.LabelFor(Model => Model.Email) &nbsp;
+            @Html.TextBoxFor(Model => Model.Email, new { @class = "form-control" })
+            @Html.ValidationMessage("Email", new { @class = "text-danger" })
+
+        </span>
+
+        <span class="d-flex justify-content-between align-items-center w-50 ">
+
+            @Html.LabelFor(Model => Model.Password) &nbsp;
+            @Html.PasswordFor(Model => Model.Password, new { @class = "form-control" })
+            @Html.ValidationMessage("Password", new { @class = "text-danger" })
+
+        </span>
+
+        <input type="submit" value="Submit" />
+    </div>
+}
+<div class="d-flex justify-content-center align-items-center flex-column gap-2 mt-5 border-1">
+
+    <span class="d-flex justify-content-between align-items-center w-25 p-1 border border-1 border-primary">
+        <p>Name</p>
+        <p>@ViewBag.Name</p>
+    </span>
+
+    <span class="d-flex justify-content-between align-items-center w-25 p-1 border border-1 border-primary">
+        <p>Email</p>
+        <p>@ViewBag.Email</p>
+    </span>
+
+    <span class="d-flex justify-content-between align-items-center w-25 p-1 border border-1 border-primary ">
+        <p>Password</p>
+        <p>@ViewBag.Password</p>
+    </span>
+
+</div>
