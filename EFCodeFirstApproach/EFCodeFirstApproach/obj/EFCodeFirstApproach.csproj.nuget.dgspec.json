@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\EFCodeFirstApproach.csproj": {}
+    "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EFCodeFirstApproach\\EFCodeFirstApproach\\EFCodeFirstApproach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\EFCodeFirstApproach.csproj": {
+    "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EFCodeFirstApproach\\EFCodeFirstApproach\\EFCodeFirstApproach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\EFCodeFirstApproach.csproj",
+        "projectUniqueName": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EFCodeFirstApproach\\EFCodeFirstApproach\\EFCodeFirstApproach.csproj",
         "projectName": "EFCodeFirstApproach",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\EFCodeFirstApproach.csproj",
+        "projectPath": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EFCodeFirstApproach\\EFCodeFirstApproach\\EFCodeFirstApproach.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\EFCodeFirstApproach\\EFCodeFirstApproach\\obj\\",
+        "outputPath": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\EFCodeFirstApproach\\EFCodeFirstApproach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
