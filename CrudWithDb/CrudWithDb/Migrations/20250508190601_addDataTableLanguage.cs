@@ -1,0 +1,76 @@
+﻿using Microsoft.EntityFrameworkCore.Migrations;
+
+#nullable disable
+
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
+namespace CrudWithDb.Migrations
+{
+    /// <inheritdoc />
+    public partial class addDataTableLanguage : Migration
+    {
+        /// <inheritdoc />
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DeleteData(
+                table: "Emp",
+                keyColumn: "id",
+                keyValue: 1);
+
+            migrationBuilder.DeleteData(
+                table: "Emp",
+                keyColumn: "id",
+                keyValue: 2);
+
+            migrationBuilder.DeleteData(
+                table: "Emp",
+                keyColumn: "id",
+                keyValue: 3);
+
+            migrationBuilder.DeleteData(
+                table: "Emp",
+                keyColumn: "id",
+                keyValue: 4);
+
+            migrationBuilder.InsertData(
+                table: "Language",
+                columns: new[] { "Id", "Desc", "Title" },
+                values: new object[,]
+                {
+                    { 1, "indian language", "hindi" },
+                    { 2, "usa language", "english" },
+                    { 3, "france language", "france" }
+                });
+        }
+
+        /// <inheritdoc />
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DeleteData(
+                table: "Language",
+                keyColumn: "Id",
+                keyValue: 1);
+
+            migrationBuilder.DeleteData(
+                table: "Language",
+                keyColumn: "Id",
+                keyValue: 2);
+
+            migrationBuilder.DeleteData(
+                table: "Language",
+                keyColumn: "Id",
+                keyValue: 3);
+
+            migrationBuilder.InsertData(
+                table: "Emp",
+                columns: new[] { "id", "city", "name", "salary", "state" },
+                values: new object[,]
+                {
+                    { 1, "surat", "krunal", 20000, "Gujarat" },
+                    { 2, "gawali", "keval", 30000, "MP" },
+                    { 3, "wajipur", "samit", 50000, "Delhi" },
+                    { 4, "mumbai", "aakash", 60000, "maharashtra" }
+                });
+        }
+    }
+}

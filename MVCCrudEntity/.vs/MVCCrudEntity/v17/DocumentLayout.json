@@ -3,24 +3,35 @@
   "WorkspaceRootPath": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\MVCCrudEntity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\mvccrudentity\\mvccrudentity\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|solutionrelative:mvccrudentity\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\mvccrudentity\\mvccrudentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|solutionrelative:mvccrudentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\mvccrudentity\\mvccrudentity\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|solutionrelative:mvccrudentity\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\mvccrudentity\\mvccrudentity\\src\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|solutionrelative:mvccrudentity\\src\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\mvccrudentity\\mvccrudentity\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|solutionrelative:mvccrudentity\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\CrudMvcFramWork\\CrudMvcFramWork\\Controllers\\empController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\mvccrudentity\\mvccrudentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|solutionrelative:mvccrudentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\mvccrudentity\\mvccrudentity\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|solutionrelative:mvccrudentity\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\mvccrudentity\\mvccrudentity\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|solutionrelative:mvccrudentity\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\mvccrudentity\\mvccrudentity\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|solutionrelative:mvccrudentity\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\mvccrudentity\\mvccrudentity\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|solutionrelative:mvccrudentity\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B13DE47F-86AD-487B-9117-3277FB4E2CBE}|MVCCrudEntity\\MVCCrudEntity.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\mvccrudentity\\mvccrudentity\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +45,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\MVCCrudEntity\\MVCCrudEntity\\Src\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "MVCCrudEntity\\Src\\ApplicationContext.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\MVCCrudEntity\\MVCCrudEntity\\Src\\ApplicationContext.cs",
+              "RelativeToolTip": "MVCCrudEntity\\Src\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:13:28.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "empController1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CrudMvcFramWork\\CrudMvcFramWork\\Controllers\\empController1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CrudMvcFramWork\\CrudMvcFramWork\\Controllers\\empController1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:28:43.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\MVCCrudEntity\\MVCCrudEntity\\Program.cs",
+              "RelativeDocumentMoniker": "MVCCrudEntity\\Program.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\MVCCrudEntity\\MVCCrudEntity\\Program.cs",
+              "RelativeToolTip": "MVCCrudEntity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T05:49:12.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\MVCCrudEntity\\MVCCrudEntity\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCCrudEntity\\Views\\Employee\\Index.cshtml",
@@ -46,12 +92,11 @@
               "RelativeToolTip": "MVCCrudEntity\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T18:36:47.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T18:36:47.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\MVCCrudEntity\\MVCCrudEntity\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "MVCCrudEntity\\Views\\Employee\\Edit.cshtml",
@@ -59,12 +104,11 @@
               "RelativeToolTip": "MVCCrudEntity\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T18:26:38.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T18:26:38.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\MVCCrudEntity\\MVCCrudEntity\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "MVCCrudEntity\\Views\\Employee\\Create.cshtml",
@@ -72,8 +116,7 @@
               "RelativeToolTip": "MVCCrudEntity\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAkwBMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T14:38:12.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T14:38:12.056Z"
             },
             {
               "$type": "Document",
@@ -85,12 +128,11 @@
               "RelativeToolTip": "MVCCrudEntity\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T13:20:57.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T13:20:57.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\MVCCrudEntity\\MVCCrudEntity\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "MVCCrudEntity\\Models\\Employee.cs",
@@ -98,21 +140,19 @@
               "RelativeToolTip": "MVCCrudEntity\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T11:13:19.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T11:13:19.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\MVCCrudEntity\\MVCCrudEntity\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "MVCCrudEntity\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\MVCCrudEntity\\MVCCrudEntity\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "MVCCrudEntity\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAqwFYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAA8wFYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T13:12:30.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T13:12:30.318Z"
             }
           ]
         }

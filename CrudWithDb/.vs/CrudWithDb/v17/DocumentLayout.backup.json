@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\crudwithdb\\crudwithdb\\migrations\\20250508191124_adddatatableallforiankey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|solutionrelative:crudwithdb\\migrations\\20250508191124_adddatatableallforiankey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\crudwithdb\\crudwithdb\\models\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|solutionrelative:crudwithdb\\models\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\crudwithdb\\crudwithdb\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|solutionrelative:crudwithdb\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\crudwithdb\\crudwithdb\\src\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|solutionrelative:crudwithdb\\src\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\crudwithdb\\crudwithdb\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|solutionrelative:crudwithdb\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\crudwithdb\\crudwithdb\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|solutionrelative:crudwithdb\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\crudwithdb\\crudwithdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|solutionrelative:crudwithdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|d:\\krunal work\\.net mvc\\.net-mvc\\crudwithdb\\crudwithdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDAB463-7BE5-4936-A6AB-6BDADA081F03}|CrudWithDb\\CrudWithDb.csproj|solutionrelative:crudwithdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250508191124_addDataTableAllForianKey.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Migrations\\20250508191124_addDataTableAllForianKey.cs",
+              "RelativeDocumentMoniker": "CrudWithDb\\Migrations\\20250508191124_addDataTableAllForianKey.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Migrations\\20250508191124_addDataTableAllForianKey.cs",
+              "RelativeToolTip": "CrudWithDb\\Migrations\\20250508191124_addDataTableAllForianKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:11:25.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Models\\Language.cs",
+              "RelativeDocumentMoniker": "CrudWithDb\\Models\\Language.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Models\\Language.cs",
+              "RelativeToolTip": "CrudWithDb\\Models\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:38:47.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudWithDb\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "CrudWithDb\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T18:17:34.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "CrudWithDb\\Controllers\\EmpController.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "CrudWithDb\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:06:33.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Src\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "CrudWithDb\\Src\\ApplicationContext.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Src\\ApplicationContext.cs",
+              "RelativeToolTip": "CrudWithDb\\Src\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:11:58.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudWithDb\\appsettings.json",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\appsettings.json",
+              "RelativeToolTip": "CrudWithDb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T06:47:54.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "CrudWithDb\\Models\\Emp.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Models\\Emp.cs",
+              "RelativeToolTip": "CrudWithDb\\Models\\Emp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T06:43:31.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Program.cs",
+              "RelativeDocumentMoniker": "CrudWithDb\\Program.cs",
+              "ToolTip": "D:\\Krunal Work\\.Net MVC\\.Net-MVC\\CrudWithDb\\CrudWithDb\\Program.cs",
+              "RelativeToolTip": "CrudWithDb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:08:24.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
